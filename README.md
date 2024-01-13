@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
-- 💬 Ask me about **Ask me about my journey from Mechanical Industry to Full Stack Development, or anything related to web development and technology.**
+- 💬 **Ask me about my journey from Mechanical Industry to Full Stack Development, or anything related to web development and technology.**
 
 - 📫 How to reach me **noel.frd123@gmail.com**
 
