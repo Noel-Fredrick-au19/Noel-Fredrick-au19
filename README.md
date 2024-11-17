@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **noel.frd123@gmail.com**
 
+- 📄 My PortFolio [https://www.linkedin.com/in/noel-fredrick-5a91182a0/](https://portfolio-noel-fredrick-full-stack.vercel.app/) 
+
 - 📄 Know about my experiences [https://www.linkedin.com/in/noel-fredrick-5a91182a0/](https://www.linkedin.com/in/noel-fredrick-5a91182a0/)
 
 - ⚡ Fun fact **When not coding, you'll find me exploring different music genres and playing the guitar.**
